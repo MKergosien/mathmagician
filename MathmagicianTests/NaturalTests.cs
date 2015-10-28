@@ -5,7 +5,7 @@ using Mathmagician;
 namespace MathmagicianTests
 {
     [TestClass]
-    public class NaturalNumbersTests
+    public class NaturalTests
     {
         [TestMethod]
         public void EnsureICanCreateClassInstance()

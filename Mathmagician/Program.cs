@@ -16,7 +16,7 @@ namespace Mathmagician
             string response = Console.ReadLine();
             if (response == "natural numbers")
             {
-                Console.WriteLine("How many should I count?");
+                Console.WriteLine("How many should I countat?");
                 Console.Write(prompt);
                 string response_length = Console.ReadLine();
                 int length;

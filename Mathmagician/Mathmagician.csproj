@@ -43,9 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="..\..\..\..\Source\Repos\Mathmagician.cs" />
+    <Compile Include="PrimeNumbers.cs" />
+    <Compile Include="FibonacciNumbers.cs" />
     <Compile Include="EvenNumbers.cs" />
     <Compile Include="NaturalNumbers.cs" />
-    <Compile Include="Program.cs" />
+    <Compile Include="OddNumbers.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
